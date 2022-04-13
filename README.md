@@ -1,6 +1,4 @@
-# GooseyF
-GooseyF's CSS Modpack
-
+# GooseyF's CSS Modpack
 aka GooseyF's Model Changing modpack 
 
 v0.01:mod lại cho model skin và 1 số model nhân vật ct và ter 
