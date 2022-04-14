@@ -1,12 +1,11 @@
 # GooseyF's CSS Modpack
 aka GooseyF's Model Changing modpack 
 
-v0.01:mod lại cho model skin và 1 số model nhân vật ct và ter 
+v0.01:-mod lại cho model skin và 1 số model nhân vật ct và ter 
 
-v0.02:-đổi skin của ak47,galil,sg552,mac10,m3,scout,awp,usp,dual elites
-
+v0.02:
+      -đổi skin của ak47,galil,sg552,mac10,m3,scout,awp,usp,dual elites
       -thay đổi buy menu picture
-      
       -xóa refugees hostage mod    
 
 
