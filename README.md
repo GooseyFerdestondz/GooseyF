@@ -9,7 +9,12 @@ v0.02:
 
       -đổi skin của ak47,galil,sg552,mac10,m3,scout,awp,usp,dual elites
       -thay đổi buy menu picture
-      -xóa refugees hostage mod    
+      -xóa refugees hostage mod 
+    
+v0.03:
+       
+       -thay skin cho dao,glock,mac10,cts và ts
+          
 
 
 INSTALLATION GUIDE
